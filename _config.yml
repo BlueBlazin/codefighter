@@ -4,7 +4,7 @@ title: CodeFighter
 description: > # this means to ignore newlines until "baseurl:"
   Well explained solutions to interesting challenges from codefights.com
 baseurl: "/codefighter" # the subpath of your site, e.g. /blog/
-url: "blueblazin.github.io" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  blueblazin.github.com
 # google_play: 'GDGX'
