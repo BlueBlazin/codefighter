@@ -3,7 +3,7 @@ layout: post
 title:  "minimumNumberOfBoxes"
 date:   2017-12-19
 categories: NumberTheory
-image: codefighter/img/minNumberOfBoxes.png
+image: blueblazin.github.io/codefighter/img/minNumberOfBoxes.png
 ---
 
 **Request:** Give your best effort to solve it yourself before viewing the solution below.
