@@ -7,11 +7,11 @@
 
     <!-- Start Layout -->
     {% if site.header_type == 'drawer' %}
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer">
+    <div class="header-background mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-drawer">
       {% include search_result.html %}
       {% include header_fixed.html %}
     {% else %}
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="header-background mdl-layout mdl-js-layout mdl-layout--fixed-header">
       {% include search_result.html %}
       {% include header.html %}
     {% endif %}
