@@ -28,8 +28,8 @@ pagination_type: default  # values [ ops, default ]
 #     name: Cool Option 3
 #     link: www.myawesomelink.com
 
-# disqus: true
-# disqus_shortname: 'gdgmanagua'
+disqus: true
+disqus_shortname: 'blueblazin'
 
 # Build settings
 markdown: kramdown
