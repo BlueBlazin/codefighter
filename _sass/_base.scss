@@ -112,3 +112,20 @@ pre {
 .drawer-title-background {
   background: white;
 }
+
+.custom-post-image {
+    margin: 0 auto;
+    display: block;
+}
+
+.custom-image-scale {
+    width: 30% !important;
+    height: 30% !important;
+}
+
+.custom-image-info {
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    text-align: center;
+}
